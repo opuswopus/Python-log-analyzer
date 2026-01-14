@@ -1,0 +1,5 @@
+Jan 14 12:00:01 server sshd[1234]: Failed password for invalid user admin from 10.0.0.55 port 2222
+Jan 14 12:00:05 server sshd[1234]: Failed password for root from 10.0.0.55 port 2222
+Jan 14 12:00:09 firewall: blocked connection from 192.168.1.10
+Jan 14 12:00:10 app: access denied for user guest
+Jan 14 12:00:12 server sshd[1234]: multiple failed login attempts detected
